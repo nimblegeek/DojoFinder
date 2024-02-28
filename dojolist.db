@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS dojo (
+  name TEXT,
+  weblink TEXT,
+  location TEXT
+);
