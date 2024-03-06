@@ -3,3 +3,5 @@ CREATE TABLE IF NOT EXISTS dojo (
   weblink TEXT,
   location TEXT
 );
+
+INSERT INTO dojo (name, weblink, location) VALUES ('Example Dojo', 'http://example.com', 'Example Location');
